@@ -10,3 +10,6 @@ This is a CI/CD based web application using Docker.
 ## Updates
 - Added README documentation
 - Minor repository improvements
+
+## Improvements
+- Minor updates in documentation
